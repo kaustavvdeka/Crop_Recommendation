@@ -35,12 +35,3 @@ Contributions to the project are welcome. If you have any suggestions, bug repor
 
 
 
-# Acknowledgements.
-We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
-
-# Contact
-For any inquiries or questions, please contact me at siddhantpatil1543@gmail.com
-
-# Project Demo Link LinkedIn :
-
-https://www.linkedin.com/posts/siddhant-patil-04587525b_agriculture-ai-machinelearning-activity-7226147898252550144-G6jh?utm_source=share&utm_medium=member_ios
