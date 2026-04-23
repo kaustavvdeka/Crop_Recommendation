@@ -16,7 +16,7 @@ crop_dict = {
 }
 
 # App layout
-st.title("Crop Recommendation System")
+st.title("Crop Recommendation Bot")
 
 st.sidebar.title("Dashboard")
 app_mode = st.sidebar.selectbox("Select Page", ["Home", "Crop Prediction"])
